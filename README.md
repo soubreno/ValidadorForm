@@ -7,5 +7,9 @@ Lembrando que é apenas para fins de estudo e foram utilizados somentes as tecno
 🚀 Linguagens
 ----------------
 HTML5
+
 CSS3
+
 JavaScript
+
+
